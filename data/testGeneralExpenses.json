@@ -1,0 +1,17 @@
+{
+    "School": [{
+        "date": "20220304_042343",
+        "amount": 50,
+        "description": "biology book",
+        "title": "textbooks"
+    }],
+    "Recreation": [],
+    "Transportation": [],
+    "Misc": [],
+    "Food": [{
+        "date": "20220304_042333",
+        "amount": 5,
+        "description": "bought at a cafe",
+        "title": "coffee"
+    }]
+}

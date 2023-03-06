@@ -1,0 +1,12 @@
+{
+    "School": [],
+    "Recreation": [{
+        "date": "20220304_052058",
+        "amount": 20,
+        "description": "",
+        "title": "movies"
+    }],
+    "Transportation": [],
+    "Misc": [],
+    "Food": []
+}

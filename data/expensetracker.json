@@ -1,0 +1,25 @@
+{
+    "School": [],
+    "Recreation": [
+        {
+            "date": "20220404_101701",
+            "amount": 10,
+            "description": "",
+            "title": "movie"
+        },
+        {
+            "date": "20220404_101708",
+            "amount": 100,
+            "description": "",
+            "title": "shopping"
+        }
+    ],
+    "Transportation": [],
+    "Misc": [],
+    "Food": [{
+        "date": "20220404_101653",
+        "amount": 5,
+        "description": "",
+        "title": "coffee"
+    }]
+}
